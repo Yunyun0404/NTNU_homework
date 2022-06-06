@@ -1,1 +1,1 @@
-# NTNU_homework
+# NTNU_Computer_Science
